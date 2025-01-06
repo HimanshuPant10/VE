@@ -14,7 +14,5 @@ st.header("Cell Design data")
 
 # Subheader
 st.subheader("Comparision Datas")
-st.subheader("Comparision Datas")
-
 
 
