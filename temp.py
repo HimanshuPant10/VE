@@ -10,7 +10,7 @@ st.image(image_url, width=500,caption="BIC", use_column_width=True)
 
 
 # Header
-st.header("Cell Design") 
+st.header("Cell Design data") 
 
 # Subheader
 st.subheader("Comparision Data")
